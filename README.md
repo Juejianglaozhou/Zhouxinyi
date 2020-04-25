@@ -49,6 +49,6 @@ try {}catch (Exception e) {
 ## 流程图
 ![出错](https://github.com/Dolipor/Changhenge/blob/master/流程图.png)
 ## 实验结果
-![出错](https://github.com/Dolipor/Changhenge/blob/master/流程图.png)
+![出错](https://github.com/Juejianglaozhou/Zhouxinyi/blob/master/%E8%BF%90%E8%A1%8C%E7%BB%93%E6%9E%9C.png)
 ## 实验感悟
     通过补考对长恨歌实验的再次学习，让我掌握了字符串String及其方法的使用还有异常处理结构的添加。长时间没有触碰JAVA再到这次补考的学习，让我对JAVA加深的印象。我往后还会继续学习JAVA，不忘记课上所学内容，不断敲程序练习。
